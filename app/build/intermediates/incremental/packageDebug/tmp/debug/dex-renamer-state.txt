@@ -1,0 +1,4 @@
+#Sat Jan 01 00:27:50 WIB 2022
+base.0=/Users/retmac/Downloads/KasirKu-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

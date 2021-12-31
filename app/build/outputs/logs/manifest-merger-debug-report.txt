@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/8eb36ea3f2494877d030bfb109395e9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/material-1.4.0.aar/3724bc69b71f38b544399398cc94c4cd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.1.1.aar/a7f524c3b3b5264acf3a83c23793e73c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e7856c2fc04961dfa239bf57be5a4272/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/40f054ade2d8e2d2dd4e43281f25b932/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/dynamicanimation-1.0.0.aar/ba7196f8780b182ae5278888b8fcf61b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cfe16b23e45e52c33ecb5520c093875c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/d089e4d9b720743dac41054e05f4ee51/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/4d0a9d4f41b8962cafec6d51006b805a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/bd17a0d55e959742fe2b0d8dd4aa10d3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/bada7bde05c8af158c08b30c0151fbe4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0f66e7f57930d4631b2daf3fb42a4279/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/40249e1460c58a625b1ad52368b9d03a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/6ff20dcc773ce49cfc6fc4450905c758/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a986c5d128be8ea09fd3a2e366e27098/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/234ad97869f1d7e7053a71c7502a3526/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/18684b43108c4377f0ca0f97b9bae38a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a654cf06f48faf34c7f7271ab9df81a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/0ebeb8d6974f69af5c4216871ef38d33/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/788257c0c1875eb506db5e3741a9e182/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/749d28ec0cc3d64e09a02a1f435a1697/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9153f0b054ed74bb43789fc9b99e770d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e29c68231bfb76c9f917e30cfbcc3866/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/db09f87be080d0568fccb453fcd5e3f3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ffc9324843e524897154521cc528a655/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f9044a2c25af710c9f4102f35b7e5c84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7b274d73d631236785ea95e6097b0f66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/931bcb4d13efc32036dc601ec4847d7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/f4449b0ba926b588f618034e3076ade5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8d398eb9e71b261371476ebb7c8c3b6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/acb28107f4ce0d639a51279e024f8ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28b64176ab78ea301ceebc541952a99b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/185a3e9bc3bdb5cb4a73bfe3da4ee471/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7019569df05506b80bb9e6ff150436eb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.1.aar/4340b7aba8f68be09085c1012d714c1e/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/02dd2633e96b3f4ef64b1789d05f7d56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/cb4347b58285813672168bf7480ef2d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/annotation-experimental-1.0.0.aar/6186674f9debf5d1a57d32e83ca5630a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:6:5-51
+	xmlns:android
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:17:22-71
+application
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:20:5-83:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/material-1.4.0.aar/3724bc69b71f38b544399398cc94c4cd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/material-1.4.0.aar/3724bc69b71f38b544399398cc94c4cd/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.1.1.aar/a7f524c3b3b5264acf3a83c23793e73c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.1.1.aar/a7f524c3b3b5264acf3a83c23793e73c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.1.aar/4340b7aba8f68be09085c1012d714c1e/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.1.aar/4340b7aba8f68be09085c1012d714c1e/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:23:9-35
+	android:hardwareAccelerated
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:24:9-44
+	android:largeHeap
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:25:9-33
+	android:icon
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:26:9-79
+activity#com.ubl.uas.SplashActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:32:13-50
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:30:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:36:27-74
+activity#com.ubl.uas.MainActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:42:13-50
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:40:13-41
+activity#com.ubl.uas.MasterListActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:47:13-50
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:46:13-54
+	android:windowSoftInputMode
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:48:13-65
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:45:13-47
+activity#com.ubl.uas.MasterDetailActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:50:9-59:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:54:13-50
+	android:parentActivityName
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:53:13-61
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:52:13-56
+	android:windowSoftInputMode
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:55:13-65
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:51:13-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:56:13-58:72
+	android:value
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:57:17-63
+activity#com.ubl.uas.QuickOrderActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:60:9-64:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:63:13-50
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:61:13-47
+activity#com.ubl.uas.printer.DeviceListActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:65:9-70:20
+	android:screenOrientation
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:68:13-50
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:67:13-50
+	android:theme
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:66:13-55
+activity#com.ubl.uas.SettingListActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:73:13-55
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:72:13-48
+activity#com.ubl.uas.SettingDetailActivity
+ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:75:9-82:20
+	android:parentActivityName
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:78:13-62
+	android:label
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:77:13-57
+	android:name
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml:76:13-50
+uses-sdk
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/8eb36ea3f2494877d030bfb109395e9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/8eb36ea3f2494877d030bfb109395e9a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/material-1.4.0.aar/3724bc69b71f38b544399398cc94c4cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/material-1.4.0.aar/3724bc69b71f38b544399398cc94c4cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.1.1.aar/a7f524c3b3b5264acf3a83c23793e73c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.1.1.aar/a7f524c3b3b5264acf3a83c23793e73c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e7856c2fc04961dfa239bf57be5a4272/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/e7856c2fc04961dfa239bf57be5a4272/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/40f054ade2d8e2d2dd4e43281f25b932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/40f054ade2d8e2d2dd4e43281f25b932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/dynamicanimation-1.0.0.aar/ba7196f8780b182ae5278888b8fcf61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/dynamicanimation-1.0.0.aar/ba7196f8780b182ae5278888b8fcf61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cfe16b23e45e52c33ecb5520c093875c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cfe16b23e45e52c33ecb5520c093875c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/d089e4d9b720743dac41054e05f4ee51/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/d089e4d9b720743dac41054e05f4ee51/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/4d0a9d4f41b8962cafec6d51006b805a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0.aar/4d0a9d4f41b8962cafec6d51006b805a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/bd17a0d55e959742fe2b0d8dd4aa10d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.2.0.aar/bd17a0d55e959742fe2b0d8dd4aa10d3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/bada7bde05c8af158c08b30c0151fbe4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/bada7bde05c8af158c08b30c0151fbe4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0f66e7f57930d4631b2daf3fb42a4279/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/0f66e7f57930d4631b2daf3fb42a4279/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/40249e1460c58a625b1ad52368b9d03a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/40249e1460c58a625b1ad52368b9d03a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/6ff20dcc773ce49cfc6fc4450905c758/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/6ff20dcc773ce49cfc6fc4450905c758/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a986c5d128be8ea09fd3a2e366e27098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a986c5d128be8ea09fd3a2e366e27098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/234ad97869f1d7e7053a71c7502a3526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/234ad97869f1d7e7053a71c7502a3526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/18684b43108c4377f0ca0f97b9bae38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/18684b43108c4377f0ca0f97b9bae38a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a654cf06f48faf34c7f7271ab9df81a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a654cf06f48faf34c7f7271ab9df81a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/0ebeb8d6974f69af5c4216871ef38d33/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/0ebeb8d6974f69af5c4216871ef38d33/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/788257c0c1875eb506db5e3741a9e182/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/788257c0c1875eb506db5e3741a9e182/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/749d28ec0cc3d64e09a02a1f435a1697/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/749d28ec0cc3d64e09a02a1f435a1697/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9153f0b054ed74bb43789fc9b99e770d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/9153f0b054ed74bb43789fc9b99e770d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e29c68231bfb76c9f917e30cfbcc3866/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e29c68231bfb76c9f917e30cfbcc3866/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/db09f87be080d0568fccb453fcd5e3f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/db09f87be080d0568fccb453fcd5e3f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-1.5.0.aar/2226f04bb564d2332b551fe110b31fdb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ffc9324843e524897154521cc528a655/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ffc9324843e524897154521cc528a655/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f9044a2c25af710c9f4102f35b7e5c84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f9044a2c25af710c9f4102f35b7e5c84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7b274d73d631236785ea95e6097b0f66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/7b274d73d631236785ea95e6097b0f66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/931bcb4d13efc32036dc601ec4847d7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/931bcb4d13efc32036dc601ec4847d7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/f4449b0ba926b588f618034e3076ade5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/f4449b0ba926b588f618034e3076ade5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8d398eb9e71b261371476ebb7c8c3b6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/8d398eb9e71b261371476ebb7c8c3b6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/acb28107f4ce0d639a51279e024f8ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/acb28107f4ce0d639a51279e024f8ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28b64176ab78ea301ceebc541952a99b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/28b64176ab78ea301ceebc541952a99b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/185a3e9bc3bdb5cb4a73bfe3da4ee471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/185a3e9bc3bdb5cb4a73bfe3da4ee471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7019569df05506b80bb9e6ff150436eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7019569df05506b80bb9e6ff150436eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.1.aar/4340b7aba8f68be09085c1012d714c1e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/retmac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.1.aar/4340b7aba8f68be09085c1012d714c1e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/02dd2633e96b3f4ef64b1789d05f7d56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/02dd2633e96b3f4ef64b1789d05f7d56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/cb4347b58285813672168bf7480ef2d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/cb4347b58285813672168bf7480ef2d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/annotation-experimental-1.0.0.aar/6186674f9debf5d1a57d32e83ca5630a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/retmac/.gradle/caches/transforms-1/files-1.1/annotation-experimental-1.0.0.aar/6186674f9debf5d1a57d32e83ca5630a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/retmac/Downloads/KasirKu-master/app/src/main/AndroidManifest.xml
